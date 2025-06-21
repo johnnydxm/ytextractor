@@ -1,0 +1,11 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# IDE / Editor specific
+.idea/
+.vscode/
+
+# Temp files
+temp/ 
